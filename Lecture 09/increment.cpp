@@ -11,8 +11,11 @@ int main(){
     // cout<<++x<<endl;
 
     int a = 0;
-    int b = a++ + ++a;
-    cout<<a<<" "<<b;
+    // int b = a++ + ++a;
+    // cout<<a<<" "<<b;
+    cout<<endl;
+    cout<<a++;
+    cout<<a;
 
 }
 
