@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "001arrays_rainwatertrapping": "cpp"
     }
 }
