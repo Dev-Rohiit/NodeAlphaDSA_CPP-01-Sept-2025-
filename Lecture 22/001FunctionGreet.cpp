@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
+void greet(){
+    cout<<"Hello, World!"<<endl;
+}
 int main(){
-    // Declare an array of 5 integers
-    
+    greet();
     return 0;
 }
